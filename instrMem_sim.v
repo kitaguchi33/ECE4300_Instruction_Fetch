@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-/* module instrMem_sim();
+ module instrMem_sim();
 
     reg [31:0] addr;
     reg CLR, CLK=0;
