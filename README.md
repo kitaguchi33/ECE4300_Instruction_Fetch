@@ -11,3 +11,5 @@
 | [`[instrMem].v`](LINK_TO_COMPONENT_CODE) | [Supporting component] |
 | [`[mux2to1].v`](LINK_TO_TESTBENCH_CODE) | [Verification testbench] |
 | [`[pc].v`](LINK_TO_TESTBENCH_CODE) | [Verification testbench] |
+
+### Testbench and Wavform
