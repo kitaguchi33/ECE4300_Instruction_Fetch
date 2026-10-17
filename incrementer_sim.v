@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-   module incrementer_sim();
+/* module incrementer_sim();
 
     wire [31:0] pc_out;
     reg [31:0] pc_in;
