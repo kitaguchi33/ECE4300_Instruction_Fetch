@@ -4,7 +4,7 @@
 
 | File | Description |
 |---|---|
-| [`[fetch].v`](LINK_TO_IMPLEMENTATION_CODE) | Main instruction fetch |
+| [`[fetch].v`](C:/Users/yunak/Downloads/Counter/Counter/MIPS_Instruction_Fetch/MIPS_Instruction_Fetch.srcs/sources_1/new) | Main instruction fetch |
 | [`[I_FETCHTB].v`](LINK_TO_COMPONENT_CODE) | fetch stage tb |
 | [`[ifIdLatch].v`](LINK_TO_TESTBENCH_CODE) | IF/ID pipeline |
 | [`[incrementer].v`](LINK_TO_IMPLEMENTATION_CODE) | Increments the PC |
