@@ -4,7 +4,7 @@
 
 | File | Description |
 |---|---|
-| [`[fetch].v`]() | Main instruction fetch |
+| [`[fetch].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/fetch.v) | Main instruction fetch |
 | [`[I_FETCHTB].v`](LINK_TO_COMPONENT_CODE) | fetch stage tb |
 | [`[ifIdLatch].v`](LINK_TO_TESTBENCH_CODE) | IF/ID pipeline |
 | [`[incrementer].v`](LINK_TO_IMPLEMENTATION_CODE) | Increments the PC |
