@@ -16,3 +16,4 @@ module ifIdLatch(
             instr_out <= instr_in;
         end
     end
+endmodule
