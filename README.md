@@ -4,17 +4,17 @@
 
 | File | Description |
 |---|---|
-| [`[fetch].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/fetch.v) | Main instruction fetch |
-| [`[I_FETCHTB].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/I_FETCHTB.v) | fetch stage tb |
-| [`[ifIdLatch].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/ifIdLatch.v) | IF/ID pipeline |
-| [`[incrementer].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/incremeter.v) | Increments the PC |
-| [`[instrMem].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/instrMem.v) | Instruction memory |
-| [`[mux2to1].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/mux2to1.v) | Selects the next PC |
-| [`[pc].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/pc.v) | Program counter |
+| [`[fetch].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/src/fetch.v) | Main instruction fetch |
+| [`[ifIdLatch].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/src/ifIdLatch.v) | IF/ID pipeline |
+| [`[incrementer].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/src/incremeter.v) | Increments the PC |
+| [`[instrMem].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/src/instrMem.v) | Instruction memory |
+| [`[mux2to1].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/src/mux2to1.v) | Selects the next PC |
+| [`[pc].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/src/pc.v) | Program counter |
 
 ### Testbench
 | File |
 |---|
+| [`[].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/ifIdLatch_sim.v) | 
 | [`[ifIdLatch].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/ifIdLatch_sim.v) | 
 | [`[incrementer].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/incrementer_sim.v) |
 | [`[instrMem_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/instrMem_sim.v) | 
