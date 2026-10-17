@@ -14,12 +14,11 @@
 ### Testbench
 | File |
 |---|
-| [`[].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/ifIdLatch_sim.v) | 
-| [`[ifIdLatch].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/ifIdLatch_sim.v) | 
-| [`[incrementer].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/incrementer_sim.v) |
-| [`[instrMem_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/instrMem_sim.v) | 
-| [`[mux_sim].v`]() | 
-| [`[pc_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/pc_sim.v) | 
+| [`[I_FETCHTB].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/testbenches/I_FETCHTB.v) | 
+| [`[ifIdLatch].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/testbenches/ifIdLatch_sim.v) | 
+| [`[incrementer].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/testbenches/incrementer_sim.v) |
+| [`[instrMem_sim].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/testbenches/instrMem_sim.v) | 
+| [`[pc_sim].v`](https://github.com/kitaguchi33/ECE4300_Instruction_Fetch/blob/main/testbenches/pc_sim.v) | 
 
 ### Timing Diagrams
 <img width="1024" height="206" alt="waveform" src="https://github.com/user-attachments/assets/aed2856a-bb14-4d35-9127-732457e92c20" />
