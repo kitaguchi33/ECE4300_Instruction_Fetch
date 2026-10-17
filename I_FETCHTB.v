@@ -16,7 +16,7 @@ module I_FETCHTB;
     );
 
     initial  clk_tb <= 0;
-    always #5 clk_tb = ~clk_tb;
+    always #1 clk_tb = ~clk_tb;
 
      initial begin
            rst_tb = 1;
@@ -32,7 +32,7 @@ module I_FETCHTB;
 
            ex_mem_pc_src_tb <= 0;
     
-           #200;
+           #30;
     
       $finish;
 
