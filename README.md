@@ -10,6 +10,6 @@
 | [`[incrementer].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/incremeter.v) | Increments the PC |
 | [`[instrMem].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/instrMem.v) | Instruction memory |
 | [`[mux2to1].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/mux2to1.v) | Selects the next PC |
-| [`[pc].v`](LINK_TO_TESTBENCH_CODE) | Program counter |
+| [`[pc].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/pc.v) | Program counter |
 
 ### Testbench and Wavform
