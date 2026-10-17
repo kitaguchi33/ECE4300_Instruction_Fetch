@@ -13,6 +13,7 @@
 | [`[pc].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/pc.v) | Program counter |
 
 ### Testbench
+| File |
 |---|
 | [`[fetch_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/fetch.v) | 
 | [`[ifIdLatch].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/ifIdLatch.v) | 
