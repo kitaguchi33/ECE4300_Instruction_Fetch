@@ -19,7 +19,7 @@
 | [`[incrementer].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/incrementer_sim.v) |
 | [`[instrMem_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/instrMem_sim.v) | 
 | [`[mux_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/mux2to1.v) | 
-| [`[pc_sim].v`](`) | 
+| [`[pc_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/pc_sim.v) | 
 
 ### Wavform
 <img width="1024" height="206" alt="waveform" src="https://github.com/user-attachments/assets/aed2856a-bb14-4d35-9127-732457e92c20" />
