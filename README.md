@@ -16,7 +16,7 @@
 | File |
 |---|
 | [`[ifIdLatch].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/ifIdLatch.v) | 
-| [`[incrementer].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/incremeter.v) |
+| [`[incrementer].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/incrementer_sim.v) |
 | [`[instrMem_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/instrMem.v) | 
 | [`[mux_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/mux2to1.v) | 
 | [`[pc_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/pc.v) | 
