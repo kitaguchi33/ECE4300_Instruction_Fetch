@@ -15,7 +15,6 @@
 ### Testbench
 | File |
 |---|
-| [`[fetch_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/fetch.v) | 
 | [`[ifIdLatch].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/ifIdLatch.v) | 
 | [`[incrementer].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/incremeter.v) |
 | [`[instrMem_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/instrMem.v) | 
