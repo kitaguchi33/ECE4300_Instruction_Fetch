@@ -22,4 +22,5 @@
 | [`[pc_sim].v`](https://github.com/kitaguchi33/ECE-4300---Instruction-Fetch/blob/main/pc.v) | 
 
 ### Wavform
+(<img width="1024" height="206" alt="waveform" src="https://github.com/user-attachments/assets/aed2856a-bb14-4d35-9127-732457e92c20" />)
 
