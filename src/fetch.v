@@ -9,7 +9,7 @@ module fetch(
 //internal
 wire [31:0] pc_out, pc_mux, next_pc, instr_data;
 
-mux2to1 m0(
+if_Mux m0(
 .out(next_pc),
 .in0(pc_mux),
 .in1(ex_mem_npc),
