@@ -3,7 +3,7 @@
 module instrMem(
     output reg [31:0] data,
     input [31:0] addr,
-    input CLR, CLK
+    input clk, rst
     );
     
     reg [31:0] register [0:63];
@@ -25,8 +25,8 @@ module instrMem(
         register[9] = 32'h90000099;
     end
 
-	always @ (posedge CLK or negedge CLR) begin
-		if (!CLR)
+	always @ (posedge clk or negedge rst) begin
+		if (!rst)
 		  data <= 32'h0;
 		else
           data <= register[addr];
