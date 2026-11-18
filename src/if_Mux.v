@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module mux2to1 (
+module if_Mux (
 	output reg [31:0] out,
     input [31:0] in0, in1,
     input sel
