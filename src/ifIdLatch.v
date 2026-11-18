@@ -3,11 +3,11 @@
 module ifIdLatch(
     output reg [31:0] pc_out, instr_out,
     input wire [31:0] pc_in, instr_in,
-    input wire clk, clr
+    input wire clk, rst
 );
 
-    always @(posedge clk or negedge clr) begin
-        if (!clr) begin
+    always @(posedge clk or negedge rst) begin
+        if (!rst) begin
             pc_out    <= 32'h00000000;
             instr_out <= 32'h00000000;
         end
