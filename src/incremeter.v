@@ -6,7 +6,7 @@ module incrementer(
     );
     
     // Need a wire to carry the 1 through each half adder
-    wire [32:0] carry; 
+    wire [31:0] carry; 
     assign carry[0] = 1;
     
     // Generates 32 half adders that keeps carrying the 1 across the 32 bit input
